@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning about **Machine Learning and Artificial Intelligence (AI)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/consultlucas/consultlucas/projects](https://github.com/consultlucas/consultlucas/projects)
-
 - 📝 I regularly write articles on [https://www.linkedin.com/in/lucasrover/](https://www.linkedin.com/in/lucasrover/)
 
 - 📫 How to reach me **consult.lucasrover@gmail.com**
