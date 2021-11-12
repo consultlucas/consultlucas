@@ -1,6 +1,17 @@
 <h1 align="center">Hi, I'm Lucas </h1>
 <h3 align="center">I'm Data Scientist</h3>
 
+- 🌱 I’m currently learning about **Machine Learning and Artificial Intelligence (AI)**
+
+- 👨‍💻 All of my projects are available at [https://github.com/consultlucas/consultlucas/projects](https://github.com/consultlucas/consultlucas/projects)
+
+- 📝 I regularly write articles on [https://www.linkedin.com/in/lucasrover/](https://www.linkedin.com/in/lucasrover/)
+
+- 📫 How to reach me **consult.lucasrover@gmail.com**
+
+- ⚡ **I've two cats and I love boards games**
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lucasrover/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lucasrover/" height="30" width="40" /></a>
